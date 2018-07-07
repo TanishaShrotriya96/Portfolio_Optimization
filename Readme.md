@@ -8,5 +8,5 @@ Please Refer to the Wiki to better understand how to navigate through this repos
 
 ### Contributions - 
 
-DataPreprocessing and RNNs - Tanisha Shrotriya 
+DataPreprocessing and RNNs - Tanisha Shrotriya <br\>
 Backtester and Rsscripts - Harsha Dixit 
